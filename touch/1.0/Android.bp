@@ -7,7 +7,6 @@ hidl_interface {
     srcs: [
         "types.hal",
         "IGloveMode.hal",
-        "IHighTouchPollingRate.hal",
         "IKeyDisabler.hal",
         "IKeySwapper.hal",
         "IStylusMode.hal",
